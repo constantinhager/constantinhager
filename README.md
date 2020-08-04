@@ -32,7 +32,9 @@ I'm also a very passionate PowerShell professional. Soon I start a [PowerShell U
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constantinhager&layout=compact)
+![Constantins's github stats](https://github-readme-stats.vercel.app/api?username=constantinhager&show_icons=true)
+
+![Constantin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=constantinhager&layout=compact)
 
 [website]: https://the-itguy.de/
 [twitter]: https://twitter.com/chagerCOC
