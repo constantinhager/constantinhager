@@ -12,7 +12,6 @@ At my job I specialize in everything infrastructure releated. This includes:
 
 I'm also a very passionate PowerShell professional. Soon I start a [PowerShell Usergroup](https://www.meetup.com/de-DE/PowerShell-UserGroup-Inn-Salzach/) in Germany.
 
----
 
 ### Languages and Tools:
 
@@ -30,7 +29,8 @@ I'm also a very passionate PowerShell professional. Soon I start a [PowerShell U
 
 <br />
 
----
+
+## My GitHub Stats
 
 ![Constantins's github stats](https://github-readme-stats.vercel.app/api?username=constantinhager&show_icons=true)
 
