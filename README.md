@@ -14,10 +14,14 @@ I'm also a very passionate PowerShell professional. Soon I start a [PowerShell U
 
 ### Connect with me:
 
-[<img align="left" alt="https://the-itguy.de/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="the-itguy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="chagercoc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="constantin-hager-456ba615a | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="constantin-hager | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
 
 <img align="left" alt="constantinhagers's Github Stats" src="https://github-readme-stats.vercel.app/api?username=constantinhager&show_icons=true&hide_border=true" />
+
+[website]: https://the-itguy.de/
+[twitter]: https://twitter.com/chagerCOC
+[linkedin]: https://www.linkedin.com/in/constantin-hager-456ba615a/
