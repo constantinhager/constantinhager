@@ -10,7 +10,7 @@ At my job I specialize in everything infrastructure releated. This includes:
 - Everything that has to do with DevOps.
 - In my job I also do SQL Server development and SQL Administration with PowerShell. 💖 DBATools
 
-I'm also a very passionate PowerShell professional. Soon I start a [PowerShell Usergroup](https://www.meetup.com/de-DE/PowerShell-UserGroup-Inn-Salzach/) in Germany.
+I'm also a very passionate PowerShell professional. I organize the PowerShell User Group innsalzach [PowerShell Usergroup](https://www.meetup.com/de-DE/PowerShell-UserGroup-Inn-Salzach/) in Germany.
 
 
 ### Languages and Tools:
