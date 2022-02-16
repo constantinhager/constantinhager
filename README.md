@@ -4,7 +4,7 @@
 
 I'm an experienced Consultant at COC AG in Bavaria Germany.
 
-At my job I specialize in everything infrastructure releated. This includes:
+At my job I specialize in everything infrastructure related. This includes:
 
 - Infrastructure As Code with Terraform and ARM Templates ❤💖
 - Everything that has to do with DevOps.
