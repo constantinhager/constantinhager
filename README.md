@@ -2,7 +2,7 @@
 
 ---
 
-I'm an experienced Consultant at COC AG in Bavaria Germany.
+I'm a Senior Systems Engineer at COC AG in Bavaria Germany.
 
 At my job I specialize in everything infrastructure related. This includes:
 
